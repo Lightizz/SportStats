@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SportStats</string>
+
+    <!--    Splash screen-->
+    <string name="splash_screen_madeBy">Made by</string>
+
+    <!--    Main activity-->
+    <string name="main_activity_title">Sport Stats</string>
+    <string name="main_activity_navbar_heavy">Lourd</string>
+    <string name="main_activity_navbar_long">Long</string>
+    <string name="main_activity_navbar_ten">10x10</string>
+
+    <!--    Item values-->
+    <string name="item_values_title">Title</string>
+    <string name="item_values_value">Value</string>
+    <string name="popup_add_value_confirm_text">Confirmer</string>
+    <string name="popup_add_value_title">Ajouter une valeur</string>
+    <string name="popup_add_value_textinput_hint">Titre de la valeur</string>
+    <string name="popup_add_value_close_desc">Close add value popup</string>
+    <string name="main_page_fragment_empty_text">Aucune valeur ici. Cliquer sur le \'+\' pour en ajouter.</string>
+</resources>

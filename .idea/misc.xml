@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/bottom_navigation_color.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/ic_10x10.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/ic_add2.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/ic_delete.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/ic_long.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/ic_ten.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/drawable/popup_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/activity_long.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/activity_ten_xten.xml" value="0.3484375" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/item_values.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/main_activity_heavy_fragment.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/main_activity_long_fragment.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/main_activity_ten_fragment.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/popup_add_reminders_devices.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/layout/popup_add_value.xml" value="0.3582427536231884" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/menu/activity_main_bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Programation/SportStats/app/src/main/res/menu/activity_main_bottom_navigation_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/heavy_page"
+        android:title="@string/main_activity_navbar_heavy"
+        android:icon="@drawable/ic_heavy">
+
+    </item>
+    <item
+        android:id="@+id/long_page"
+        android:title="@string/main_activity_navbar_long"
+        android:icon="@drawable/ic_long">
+
+    </item>
+    <item
+        android:id="@+id/ten_page"
+        android:title="@string/main_activity_navbar_ten"
+        android:icon="@drawable/ic_ten">
+
+    </item>
+</menu>
